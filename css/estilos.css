@@ -6,6 +6,12 @@ body{
 #container{
   border: solid 2px silver;
   margin: 0% auto;
-  padding-top: 10px;
   width: 40%;
+}
+
+#cabecera{
+  background-color: skyblue;
+  font-size: 2em;
+  box-shadow: -8px 5px 15px 3px #92B561;
+  padding: 10px;
 }
